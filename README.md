@@ -22,4 +22,4 @@ After starting the server, start the client side by typing "npm start"
 
 This should have the app up and functioning.
 
-![image](https://user-images.githubusercontent.com/43937256/197420393-5e611e0f-c5ed-4683-be7e-6009674ceb92.png)
+![image](https://user-images.githubusercontent.com/43937256/197420431-e4925f28-4cf9-4b38-8428-b6d4861872ab.png)
